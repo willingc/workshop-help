@@ -9,7 +9,8 @@ Feel free to share this information with attribution with your PyLadies groups.
   San Diego PyLadies and Inland Empire PyLadies
 - [Intro to Machine Learning](https://github.com/sarguido/hands-on-analysis-python/blob/master/notebooks/scikit_learn.ipynb)
   by Sarah Guido
-
+- [Presidential Open Question analysis](https://github.com/jackiekazil/presidential-open-questions-data)
+  by Jackie Kazil
 
 ## Workshop materials
 
