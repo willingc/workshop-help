@@ -15,10 +15,7 @@ Sublime Text is also a popular choice.
 [GitHub Help pages](https://help.github.com)
 
 1. Create a [GitHub account](https://help.github.com/articles/set-up-git/)
-   if you do not already have one.
-
-   ![GitHub setup](../images/github.png)
-   
+   if you do not already have one.   
 2. Make sure git is installed on your system.
 3. From the command line (terminal), enter `git --version`. If git is
    installed on your system and its PATH, it will display git's version.
@@ -44,7 +41,6 @@ Refer to Django Girls tutorial.
 ## Documentation, help, and cheatsheets
 
 * Command line basics
-    - [cheatsheet]
     - [Advanced cheatsheet](https://digital-forensics.sans.org/media/linux-shell-survival-guide.pdf) Not needed for workshop but handy to have
     - [Django Girls tutorial section on command line and terminal](https://tutorial.djangogirls.org/en/intro_to_command_line/) Highly recommended
 
