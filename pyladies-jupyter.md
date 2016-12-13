@@ -7,7 +7,8 @@ Feel free to share this information with attribution with your PyLadies groups.
 
 - [Intro to Python - Notebook 1](https://github.com/pythonsd/intro-to-python/blob/master/part-1.ipynb) from
   San Diego PyLadies and Inland Empire PyLadies
-- 
+- [Intro to Machine Learning](https://github.com/sarguido/hands-on-analysis-python/blob/master/notebooks/scikit_learn.ipynb)
+  by Sarah Guido
 
 
 ## Workshop materials
